@@ -1,0 +1,7 @@
+<div class="job-menu">
+    <h1>{{title}}</h1>
+
+    <div *ngFor="let j of jobList">
+        <a [routerLink]="['/jobs', j.id]">{{j.title}}</a>
+    </div>
+</div>

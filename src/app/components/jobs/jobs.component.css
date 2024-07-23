@@ -1,0 +1,13 @@
+.job-menu {
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 400px;
+    height: auto;
+    display: block;
+    margin: 50px auto;
+    padding-bottom: 40px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    box-shadow: gray 5px 10px 10px ;
+
+}

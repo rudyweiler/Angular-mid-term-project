@@ -1,0 +1,15 @@
+nav {
+    text-align: center;
+    background-color:skyblue;
+    padding: 20px;
+}
+
+.navBar {
+    display: inline;
+    margin: 5%;
+    font-size: 20px;
+}
+
+.navBar:hover {
+    font-size: 22px;
+}
